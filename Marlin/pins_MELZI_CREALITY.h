@@ -69,6 +69,10 @@
   #define DOGLCD_CS        LCD_PINS_RS
 #endif
 
+// BLTouch mappings: (Creality 3D)
+#if ENABLED(BLTOUCH)
+  #define SERVO0_PIN      27
+#endif
 /**
   PIN:   0   Port: B0        E0_DIR_PIN                  protected
   PIN:   1   Port: B1        E0_STEP_PIN                 protected
