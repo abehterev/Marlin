@@ -1,3 +1,14 @@
+# Закинуть на пиво
+
+Yandex [41001137441311](https://money.yandex.ru/to/41001137441311)
+
+WMR R334682306261
+
+WMZ Z773609335027
+
+WME E183438549238
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
