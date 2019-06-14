@@ -612,7 +612,7 @@
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93 }
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.00, 80.00, 400.00, 93.00 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.00, 80.00, 400.00, 96.00 }
 
 /**
  * Default Max Feed Rate (mm/s)
@@ -1275,8 +1275,8 @@
 // @section temperature
 
 // Preheat Constants
-#define PREHEAT_1_TEMP_HOTEND 185
-#define PREHEAT_1_TEMP_BED     45
+#define PREHEAT_1_TEMP_HOTEND 110
+#define PREHEAT_1_TEMP_BED     65
 #define PREHEAT_1_FAN_SPEED     0 // Value from 0 to 255
 
 #define PREHEAT_2_TEMP_HOTEND 240
